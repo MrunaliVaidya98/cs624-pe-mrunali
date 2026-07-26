@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PE03 Todos",
+    "slug": "pe03-todos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "pe03todos",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
