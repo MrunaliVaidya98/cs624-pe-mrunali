@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "PE04 Profile Card",
+    "slug": "pe04-profile-card",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "pe04profilecard",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

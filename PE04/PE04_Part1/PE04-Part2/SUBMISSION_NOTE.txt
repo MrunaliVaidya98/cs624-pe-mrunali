@@ -1,0 +1,1 @@
+Run: npm install\nThen: npx expo start --tunnel\nReplace the representative PNGs with your own Expo/Expo Go screenshots before final submission if required.\n

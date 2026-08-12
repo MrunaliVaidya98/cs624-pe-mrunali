@@ -1,0 +1,10 @@
+PE04 Part 1 Submission Package
+
+1. Copy the PE04 folder into your cs624-pe-mrunali repository.
+2. Open PE04/Part1 in Terminal.
+3. Run: npm install
+4. Run: npx expo start --tunnel --clear
+5. Verify the Profile Card.
+6. Commit and push the PE04 folder.
+
+Part 2 is not included because the assignment says to complete it only after HOS06.
