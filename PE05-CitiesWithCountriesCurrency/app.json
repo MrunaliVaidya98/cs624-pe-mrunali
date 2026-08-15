@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PE05 Cities and Countries",
+    "slug": "pe05-cities-countries",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "web": { "bundler": "metro" }
+  }
+}
